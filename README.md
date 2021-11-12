@@ -1,5 +1,9 @@
 ## Hi, I’m Simon Gaufreteau, an IT engineering student at Polytech Lyon (France).
 
+### My website / blog
+
+[https://simon-gaufreteau.com](https://simon-gaufreteau.com)
+
 ### Contact me
 
 Mail : simon.gaufreteau@gmail.com
