@@ -1,4 +1,4 @@
-## Hi, I’m Simon Gaufreteau, an IT engineering student at Polytech Lyon (France).
+## Hi, I’m Simon Gaufreteau, a 5th year CS engineering student at Polytech Lyon (France).
 
 ### My website / blog
 
