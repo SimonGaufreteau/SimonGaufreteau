@@ -1,14 +1,16 @@
 ## Hi, I’m Simon Gaufreteau, a 5th year CS engineering student at Polytech Lyon (France).
 
-### My website / blog
+### Some useful links
 
-[https://simon-gaufreteau.com](https://simon-gaufreteau.com)
+Personal website : https://simon-gaufreteau.com
+
+LinkedIn : https://www.linkedin.com/in/simon-gaufreteau/
 
 ### Contact me
 
-Mail : simon.gaufreteau@gmail.com
-
-Discord : 3x1#6160
+- Mail : simon.gaufreteau@gmail.com
+- LinkedIn messages
+- Discord : 3x1#6160
 
 <!---
 ### Some Stats (many repos are private)
