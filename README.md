@@ -10,7 +10,6 @@ LinkedIn : https://www.linkedin.com/in/simon-gaufreteau/
 
 - Mail : simon.gaufreteau@gmail.com
 - LinkedIn messages
-- Discord : 3x1#6160
 
 <!---
 ### Some Stats (many repos are private)
