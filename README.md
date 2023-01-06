@@ -1,5 +1,4 @@
-## Hi, I’m Simon Gaufreteau, a 5th year CS engineering student at Polytech Lyon (France).
-
+## Hi, I’m Simon Gaufreteau, SDE @ Amazon.
 ### Some useful links
 
 Personal website : https://simon-gaufreteau.com
@@ -11,13 +10,3 @@ LinkedIn : https://www.linkedin.com/in/simon-gaufreteau/
 - Mail : simon.gaufreteau@gmail.com
 - LinkedIn messages
 
-<!---
-### Some Stats (many repos are private)
-
- ![](https://github.com/SimonGaufreteau/githubstats/blob/master/generated/overview.svg)
-
-// ![](https://github.com/SimonGaufreteau/githubstats/blob/master/generated/languages.svg)
-
-// *Note : CSS excluded. It was taking around 66% of changes due to CSS frameworks like TailwindCSS*
-
--->
